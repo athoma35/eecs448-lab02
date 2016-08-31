@@ -109,8 +109,8 @@ bool LinkedList<T>::removeBack()
     }
     else
     {
-            Node* oldBack = m_front;
-            Node* newBack = m_front;
+            Node<T>* oldBack = m_front;
+            Node<T>* newBack = m_front;
             oldBack = oldBack->getNext();
             while (oldBack->getNext() != nullptr)
             {
