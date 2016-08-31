@@ -1,6 +1,6 @@
 /**
-*	@author 
-*	@date 
+*	@author *Andrew Thomas
+*	@date 31 August 2016
 *	@file Node.hpp
 */
 
